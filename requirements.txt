@@ -1,0 +1,6 @@
+requests
+transformers[ja]
+torch
+sklearn
+datasets
+pandas
